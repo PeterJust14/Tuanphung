@@ -1,1 +1,6 @@
-12345
+5
+Godric Gryffindor
+Helga Hufflepuff
+Rowena Ravenclaw 
+Salazar Slytherin
+DoMIXI
